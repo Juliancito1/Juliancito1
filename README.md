@@ -35,7 +35,7 @@
 
 ### 👷 Proyectos:
 
-Mis proyectos estan conformados por tareas y proyectos más grandes realizados por mi curso de programación de FullStack. Aqui algunos de ellos:
+Mis proyectos estan conformados por tareas mayormente individuales (revisar mis repositorios) y proyectos más grandes, estos realizados de forma grupal durante mi curso de programación de FullStack. Aqui algunos de ellos:
 
 - https://github.com/Juliancito1/Habitos-Saludables-39i
 - https://github.com/Juliancito1/proyecto-final-modulo-2
