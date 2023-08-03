@@ -15,7 +15,9 @@
 ### Sobre Mi:
 - 👨 Soy un chico apasionado por la programación web que busca su lugar en el mundo IT
 - 🔭 Actualmente estoy en busqueda de mi primer trabajo como desarrollador FullStack, hice mi curso en Rolling Code School
-- Para contactarme  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]https://www.linkedin.com/in/julián-martin-2243b0274/)
+- Para contactarme  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/julián-martin-2243b0274/)
+
+---
 
 ### 👨‍💻 Lenguaje y Herramientas:
 
@@ -28,6 +30,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" **alt="MongoDb" width="40" height="40"/>
 </div>
+
+--- 
+
+### 👷 Proyectos:
+
+Mis proyectos estan conformados por tareas y proyectos más grandes realizados por mi curso de programación de FullStack. Aqui algunos de ellos:
+
+- https://github.com/Juliancito1/Habitos-Saludables-39i
+- https://github.com/Juliancito1/proyecto-final-modulo-2
+- https://github.com/Juliancito1/ProyectoFinal-Grupo3
 
 
 
